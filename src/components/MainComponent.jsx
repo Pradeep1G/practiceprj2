@@ -1,6 +1,6 @@
 
 import gridpic from "../assets/photo-grid.png"
-import shirt from "./Katie-zaferes.png"
+import shirt from "../assets/katie-zaferes.png"
 import wedding from "../assets/wedding-photography.png"
 import bike from "../assets/mountain-bike.png"
 
